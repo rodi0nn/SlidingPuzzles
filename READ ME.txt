@@ -1,0 +1,1 @@
+To change the puzzle, select a file from either zip and rename it as 'maze.txt'. There is no automatic puzzle selection yet.
